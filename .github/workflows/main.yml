@@ -14,10 +14,11 @@ on:
     - main
 
 jobs:
-  build:
+  generate:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     timeout-minutes: 5
+    
     steps:
       # Snake Animation
       - uses: Sutil/snk@master
