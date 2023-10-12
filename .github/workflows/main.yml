@@ -20,15 +20,14 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      # Snake Animation
-      - uses: Sutil/snk@master
-        id: snake-gif
+      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      - name: Generate github-contribution-grid-snake.svg
+      - uses: Platane/snk/svg-only@v2
         with:
-          github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-contribution-grid-snake2.svg
-          snake_color: 'blue'
+          github_user_name: souzayuri
+          svg_out_path: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
           target_branch: output
           build_dir: dist
