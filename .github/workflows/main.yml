@@ -1,8 +1,11 @@
 name: Generate snake game
 
 on:
-  schedule: # execute every 12 hours
+  # execute every 12 hours
+  schedule: 
     - cron: "* */12 * * *"
+    
+  # allows to manually run the job at any time
   workflow_dispatch:
 
     # run on every push on the master branch
@@ -10,11 +13,11 @@ on:
     branches:
     - main
 
-
 jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
       # Snake Animation
       - uses: Sutil/snk@master
