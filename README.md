@@ -29,7 +29,7 @@ I'm currently doing my Ph.D. in Biology at the University of Miami, focusing on 
     <img align="center" alt="YS-Shiny" height="35" width="30" src="https://rstudio.github.io/shiny/reference/figures/logo.png">
     <img align="center" alt="YS-Markdown" height="35" width="30" src="https://ulyngs.github.io/rmarkdown-workshop/slides/figures/rmarkdown.png">
     <img align="center" alt="YS-QIG" height="30" width="40" src="https://qgis.org/en/_downloads/19636e41148dfd0157ff0db3f7297069/qgis-icon64.svg">
-    <img align="center" alt="YS-ArcGIS" height="35" width="85" src="[https://en.wikipedia.org/wiki/ArcGIS#/media/File:ArcGIS_logo.png](https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png)">
+    <img align="center" alt="YS-ArcGIS" height="35" width="85" src="https://www.earthdata.nasa.gov/s3fs-public/imported/ESRI_logo_logotype.png?VersionId=l7wkV.k.obchjz7xTnL6aDro6zdvt7nS">
     </h2>
 </div>
 
