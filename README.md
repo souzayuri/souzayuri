@@ -10,7 +10,7 @@
     </h1>
 
 ## About me
-I'm currently doing my Ph.D. in Biology at the University of Miami, focusing on disentangling termites role in the Cerrado ecosystem processes (the Brazilian Savanna).
+I'm an ecologist and data scientist who focuses on integrating computational techniques with fieldwork data to answer questions about population and community ecology.
 
 - [Ph.D. Student in Biology (2022-2027)](https://news.miami.edu/grad/stories/2022/10/congratulations-to-our-2022-2023-fellows.html)
 - [MBA in Data Science and Analytics (2021-2023)](https://mbauspesalq.com/en/courses/mba-in-data-science-and-analytics)
