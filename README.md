@@ -12,7 +12,7 @@
 ## About me
 I'm an ecologist and data scientist who focuses on integrating computational techniques with fieldwork data to answer questions about population and community ecology.
 
-- [Ph.D. Student in Biology (2022-2027)](https://news.miami.edu/grad/stories/2022/10/congratulations-to-our-2022-2023-fellows.html)
+- [Master's in Biology (2022-2025)](https://news.miami.edu/grad/stories/2022/10/congratulations-to-our-2022-2023-fellows.html)
 - [MBA in Data Science and Analytics (2021-2023)](https://mbauspesalq.com/en/courses/mba-in-data-science-and-analytics)
 - [Master's in Ecology and Biodiversity (2019-2021)](https://repositorio.unesp.br/handle/11449/204150)
 - [Bachelor in Ecology (2013-2016)](https://repositorio.unesp.br/handle/11449/155815)
