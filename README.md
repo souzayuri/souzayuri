@@ -28,7 +28,6 @@ I'm an ecologist and data scientist who focuses on integrating computational tec
     <img align="center" alt="YS-Shiny" height="35" width="30" src="https://rstudio.github.io/shiny/reference/figures/logo.png">
     <img align="center" alt="YS-Markdown" height="35" width="30" src="https://ulyngs.github.io/rmarkdown-workshop/slides/figures/rmarkdown.png">
     <img align="center" alt="YS-QIG" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg">
-    <img align="center" alt="YS-ArcGIS" height="35" src="https://raw.githubusercontent.com/YOUR-USER/YOUR-USER/main/assets/esri-logo.png">
     </h2>
 </div>
 
