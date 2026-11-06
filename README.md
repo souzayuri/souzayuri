@@ -20,8 +20,6 @@ I'm an ecologist and data scientist who focuses on integrating computational tec
     <h2 align="center"
     style="display: inline_block">
     <a href="https://github.com/souzayuri">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=souzayuri&show_icon=true&rank_icon=github&theme=tokyonight"/>
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzayuri&layout=compact&langs_count=16&theme=tokyonight"/>
     <div>
     <img align="center" alt="YS-R" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
     <img align="center" alt="YS-Tidyverse" height="35" width="30" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/SVG/tidyverse.svg">
