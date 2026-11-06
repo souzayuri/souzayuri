@@ -5,7 +5,6 @@
     <a href="https://twitter.com/Yuri_S_Souza"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="30" height="30" /></a>
     <a href="https://scholar.google.com/citations?user=s1YL0toAAAAJ"><img src="https://iconape.com/wp-content/files/da/64524/svg/google-scholar.svg" width="30" height="40" /></a>
     <a href="https://orcid.org/0000-0002-2133-0469"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="30" height="30" /></a>
-    <a href="https://www.researchgate.net/profile/Yuri-Souza-6"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/1200px-ResearchGate_icon_SVG.svg.png" width="30" height="30" /></a>
     <a href="http://lattes.cnpq.br/4348157585292261"><img src="https://www.ufpb.br/ppgs/contents/imagens/logo-lattes.png/@@images/image.png" width="30" height="30" /></a>
     </h1>
 
@@ -29,7 +28,7 @@ I'm an ecologist and data scientist who focuses on integrating computational tec
     <img align="center" alt="YS-Shiny" height="35" width="30" src="https://rstudio.github.io/shiny/reference/figures/logo.png">
     <img align="center" alt="YS-Markdown" height="35" width="30" src="https://ulyngs.github.io/rmarkdown-workshop/slides/figures/rmarkdown.png">
     <img align="center" alt="YS-QIG" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg">
-    <img align="center" alt="YS-ArcGIS" height="35" width="85" src="https://www.earthdata.nasa.gov/s3fs-public/imported/ESRI_logo_logotype.png?VersionId=l7wkV.k.obchjz7xTnL6aDro6zdvt7nS">
+    <img align="center" alt="YS-ArcGIS" height="35" src="https://raw.githubusercontent.com/YOUR-USER/YOUR-USER/main/assets/esri-logo.png">
     </h2>
 </div>
 
