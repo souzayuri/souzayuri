@@ -2,7 +2,6 @@
 <header>
     <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=outfit&weight=200&size=40&duration=4000&pause=1&color=2DFF6A9A&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=Hi+everyone%2C+my+name+is+Yuri+Souza+;and+I'm+an+Ecologist!" alt="Typing SVG" /></a>
     <a href="mailto: desouza.s.yuri@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30" height="40" target="_blank" /></a>
-    <a href="https://twitter.com/Yuri_S_Souza"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="30" height="30" /></a>
     <a href="https://scholar.google.com/citations?user=s1YL0toAAAAJ"><img src="https://iconape.com/wp-content/files/da/64524/svg/google-scholar.svg" width="30" height="40" /></a>
     <a href="https://orcid.org/0000-0002-2133-0469"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="30" height="30" /></a>
     <a href="http://lattes.cnpq.br/4348157585292261"><img src="https://www.ufpb.br/ppgs/contents/imagens/logo-lattes.png/@@images/image.png" width="30" height="30" /></a>
